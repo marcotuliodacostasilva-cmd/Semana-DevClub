@@ -6,6 +6,6 @@
      <p>- CSS</p>
      <p>- JAVASCRIPT</p>
 <br>
-<img src=
+<img src=https://github.com/marcotuliodacostasilva-cmd/Semana-DevClub/blob/main/assets/Desktop.jpeg?raw=true>
 
 
